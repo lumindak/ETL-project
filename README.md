@@ -6,3 +6,5 @@ obesities and GDP for all the countries for specific years. After cleanig the da
 as this is a unique identifier. The cleaned data sets were save in a PostgreSQL database. The table names are, income, obesity, 
 and combined data. The columns in income are, country and GDP. The columns in obesity are, country, Total, Male, Female. The columns 
 in combined data are country, Total, Male, Female, GDP.
+
+Url:https://lumindak.github.io/ETL-project-Global-Obesity-data/
